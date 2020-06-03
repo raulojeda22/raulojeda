@@ -58,7 +58,7 @@ h1:hover {
 
 nav {
   font-family: sHPinscherRegular;
-  font-size: 3vw;
+  font-size: 2vw;
   width: 100%;
   display: flex;
   justify-content: space-evenly;
@@ -74,6 +74,6 @@ nav a {
     font-size: 30vw;
   }
   nav {
-    font-size: 8vw;
+    font-size: 5vw;
   }
 }

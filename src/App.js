@@ -16,6 +16,8 @@ class App extends Component {
           <a target="_blank" rel="noopener noreferrer" href="https://donrapido.es/">Don Rápido</a>
           <a target="_blank" rel="noopener noreferrer" href="https://www.silverand.es/">Silver and...</a>
           <a target="_blank" rel="noopener noreferrer" href="https://raulojeda22.github.io/Javascript-RPG/">Javascript RPG</a>
+          <a target="_blank" rel="noopener noreferrer" href="https://raulojeda22.github.io/react-redux-sample-shop">Patotienda</a>
+          <a target="_blank" rel="noopener noreferrer" href="https://snapcraft.io/bash-shell-rpg">Bash RPG</a>
         </nav>
       </div>
     );
