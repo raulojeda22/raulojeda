@@ -19,6 +19,10 @@ class App extends Component {
           <a target="_blank" rel="noopener noreferrer" href="https://raulojeda22.github.io/react-redux-sample-shop">Patotienda</a>
           <a target="_blank" rel="noopener noreferrer" href="https://snapcraft.io/bash-shell-rpg">Bash RPG</a>
         </nav>
+        <video id="background-video" loop muted autoPlay>
+            <source src="/videos/raulet.mp4" type="video/mp4" />
+            <source src="/videos/Johanet.mp4" type="video/mp4" />
+        </video>
       </div>
     );
   }
