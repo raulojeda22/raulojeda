@@ -22,17 +22,21 @@
   padding: 0px;
 }
 
+html {
+  background: url(/images/rauletblurrrr.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% 100%;
+}
+
 .App {
-  background-image: url("/images/rauletblurrrr.jpg");
   color: white;
   height: 100vh;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   flex-direction: column;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
 }
 
 h1 {
