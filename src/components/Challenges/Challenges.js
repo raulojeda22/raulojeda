@@ -33,7 +33,7 @@ class Challenges extends Component {
                 <div className="challengeCategory">
                     <h2>Misc</h2>
                     <nav id="challengeList">
-                        <a target="_blank" className="easy" rel="noopener noreferrer" href="/ctf/misc/hacking-grades">Hacking Grades - Easy</a>
+                        <a target="_blank" className="easy" rel="noopener noreferrer" href="/ctf/misc/hacking-grades/index.html">Hacking Grades - Easy</a>
                     </nav>
                 </div>
             </div>
