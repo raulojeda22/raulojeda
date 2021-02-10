@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import './Home.css';
 
 class Home extends Component {
+    stopAnimation(e) {
+        e.target.classList.add("stopAnimation");
+    }
     render() {
         return (
             <div id="home">
@@ -16,6 +19,7 @@ class Home extends Component {
                     <a target="_blank" rel="noopener noreferrer" href="https://raulojeda22.github.io/react-redux-sample-shop">Patotienda</a>
                     <a target="_blank" rel="noopener noreferrer" href="https://snapcraft.io/bash-shell-rpg">Bash RPG</a>
                     <a href="/challenges/">CTF Challenges</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/@raul_ojeda22">TikTok</a>
                 </nav>
                 <video id="background-video" loop muted autoPlay poster="/images/raulet.jpg">
                     <source src="/videos/raulet.mp4" type="video/mp4" />

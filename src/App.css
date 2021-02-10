@@ -22,7 +22,7 @@
   padding: 0px;
 }
 
-html {
+body {
   background: url(/images/rauletblurrrr.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -72,6 +72,13 @@ nav a {
   font-weight: bold;
   margin-right: 8px;
   margin-left: 8px;
+  padding: 3px;
+  border-radius: 10px;
+  background-color: rgba(0, 255, 0, 0.3);
+}
+
+nav a:hover {
+  background-color: #00ff00;
 }
 
 #background-video {

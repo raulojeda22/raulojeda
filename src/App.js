@@ -5,9 +5,6 @@ import Home from "./components/Home/Home.js"
 import Challenges from "./components/Challenges/Challenges.js"
 
 class App extends Component {
-  stopAnimation(e) {
-    e.target.classList.add("stopAnimation");
-  }
   render() {
     return (
       <div className="App">

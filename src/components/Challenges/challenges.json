@@ -1,0 +1,33 @@
+{
+    "challenges": {
+        "categories": [
+            {
+                "title": "Reverse engineering",
+                "list": [
+                ]
+            },{
+                "title": "Cryptography",
+                "list": [
+                ]
+            },{
+                "title": "Web exploitation",
+                "list": [
+                ]
+            },{
+                "title": "Programming",
+                "list": [
+                ]
+            },{
+                "title": "Miscellaneous",
+                "list": [
+                    {
+                        "name": "Hacking Grades",
+                        "description": "The end-of-course grades are already available on the UPV website, but apparently a hacker has managed to modify his own grade and randomize the others. He has also encrypted the names of all the students to make it more difficult to identify him, we need your skills to catch him. https://raulojeda.space/ctf/misc/hacking-grades/index.html",
+                        "difficulty": "easy",
+                        "flag": "af81d4902f8b33022985020fb22b355377a21baedc9fa1e8611bb5076780535d659523b3f557f3cd5fb3108d9583a1aa9d2be7edc83e72345f4f11e5a5bd75ec"
+                    }
+                ]
+            }
+        ]
+    }
+}
