@@ -4,6 +4,57 @@
             {
                 "title": "Reverse engineering",
                 "list": [
+                    {
+                        "name": "Radare2 Intro 0",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "easy",
+                        "flag": "1bcb5e82cc44b497003730d9194a3468afbccb52d74a0687332d56523ab2f282444171b4a934f7f14b86045ea7234eb48e4a078847e3095760400a5ca5bbcc06"
+                    },{
+                        "name": "Radare2 Intro 1",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "easy",
+                        "flag": "39cfc933a4bd51a0c97b7b81807aad51f4aade32e081a73d872cd140c76a617d2510a3b4ebf90dd604ca14cccb3a3347f6c80deb4230cefae5a22cb3618ecc22"
+                    },{
+                        "name": "Radare2 Intro 2",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "easy",
+                        "flag": "deb63dc3350c8885306b166cfaa3c7b4cedbf1b2dd5b2638560ce5e5841fd960b1492ade63cf4bc108804b4762d273f4e841c7059ac5582e9a009c26340abe32"
+                    },{
+                        "name": "Radare2 Intro 3",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "easy",
+                        "flag": "fa4116c98f79ccbaaaab248f68ea6257c6a843eb25e3306ac6c6da9ea35fdca8c08d8206435774b0669b93999f65593e45adb45ed6cc8e515bdce18dd654fcc4"
+                    },{
+                        "name": "Radare2 Intro 4",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "easy",
+                        "flag": "dca3f924e6145ee586159a8e6b63af2bc7037f064ee5f78bab008c4adbca9b29bd94bcea11a5dced35b0e9beb5d409f111050251f2912ce9c4bd79161d4f9e52"
+                    },{
+                        "name": "Radare2 Intro 5",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "easy",
+                        "flag": "b0e228d116c18da6701cd9cacf719747189df64acd04c9a24fbc46314ca3e01b8842537c776b691d6405ddaaf3848b32341b1d827ace6f005339a084a2afeff4"
+                    },{
+                        "name": "Radare2 Intro 6",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "easy",
+                        "flag": "9fb46a18b52cd39b61193301a141f04e2a0344f889ffc0d670e9c9825b8356b18a2d226a40608e3e79a97ae8081ff76b44d3fb5f805527f91972836cc41fb03f"
+                    },{
+                        "name": "Radare2 Intro 7",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "easy",
+                        "flag": "2954ad1ddb82787f82da709ffdafbec04e1a993a9632119ab1db5ed9fcc3a4e24d7f6747fdf8ae7ab798a2768f027abf16a31d16d39158cbb18ce146be653b6d"
+                    },{
+                        "name": "Radare2 Intro 8",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "easy",
+                        "flag": "b725eda933ab03e5fcfa9d597eaa69444420c02a4c0b9f3197555495ddff9acaa3b3d8b5a142b7c6b30bdead84f4e33f020a1c7f6d254d5eaf900112e9321bdf"
+                    },{
+                        "name": "Radare2 Intro 9",
+                        "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
+                        "difficulty": "medium",
+                        "flag": "1d6d3dce2fcc1a172cc5b642c27f347985afb7b26afb545c853166daa4cf869aab3a462a97d8461ea0b4d1521710b1fb444457628ee71d99aef91c2c2817f449"
+                    }
                 ]
             },{
                 "title": "Cryptography",
