@@ -107,18 +107,24 @@
 }
 
 #challenges nav button {
-    background-color: rgba(0, 255, 0, 0);
     font-family: sHPinscherRegular;
     font-size: xx-large;
     border: none;
     cursor: pointer;
+    background-color: #00000045;
+    border-radius: 25px;
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .easy {
     color: rgb(0, 255, 0);
 }
 .medium {
-    color: blue;
+    color: deepskyblue;
 }
 .hard {
     color: red;

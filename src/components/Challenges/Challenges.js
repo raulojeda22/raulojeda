@@ -39,7 +39,10 @@ class Challenges extends Component {
             show: true,
             name: chall.name,
             description: chall.description,
-            flag: chall.flag
+            flag: chall.flag,
+            submitted: false,
+            correctFlag: false,
+            inputFlag: ""
         })
     }
     closeModal() {

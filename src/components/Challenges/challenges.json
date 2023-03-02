@@ -37,22 +37,22 @@
                     },{
                         "name": "Radare2 Intro 6",
                         "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
-                        "difficulty": "easy",
+                        "difficulty": "medium",
                         "flag": "9fb46a18b52cd39b61193301a141f04e2a0344f889ffc0d670e9c9825b8356b18a2d226a40608e3e79a97ae8081ff76b44d3fb5f805527f91972836cc41fb03f"
                     },{
                         "name": "Radare2 Intro 7",
                         "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
-                        "difficulty": "easy",
+                        "difficulty": "medium",
                         "flag": "2954ad1ddb82787f82da709ffdafbec04e1a993a9632119ab1db5ed9fcc3a4e24d7f6747fdf8ae7ab798a2768f027abf16a31d16d39158cbb18ce146be653b6d"
                     },{
                         "name": "Radare2 Intro 8",
                         "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
-                        "difficulty": "easy",
+                        "difficulty": "medium",
                         "flag": "b725eda933ab03e5fcfa9d597eaa69444420c02a4c0b9f3197555495ddff9acaa3b3d8b5a142b7c6b30bdead84f4e33f020a1c7f6d254d5eaf900112e9321bdf"
                     },{
                         "name": "Radare2 Intro 9",
                         "description": "Challenge files: https://raulojeda.space/ctf/rev/radare2-intro/radare2-intro.zip",
-                        "difficulty": "medium",
+                        "difficulty": "hard",
                         "flag": "1d6d3dce2fcc1a172cc5b642c27f347985afb7b26afb545c853166daa4cf869aab3a462a97d8461ea0b4d1521710b1fb444457628ee71d99aef91c2c2817f449"
                     }
                 ]
